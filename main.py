@@ -1,4 +1,4 @@
 from planetarium import Planetarium
 
 planetarium1 = Planetarium()
-print(planetarium1)
+print(str(planetarium1))
