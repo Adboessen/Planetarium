@@ -1,4 +1,4 @@
-from Planet import Planet
+from planet import Planet
 
 class Planetarium(object):
     def __init__(self):

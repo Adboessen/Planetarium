@@ -9,3 +9,4 @@ class Planet(object):
 Diameter: {self.diameter} miles,
 Distance from Sun: {self.distance} miles,
 Moons: {self.moons}'''
+    
